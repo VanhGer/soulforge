@@ -39,9 +39,9 @@ This section provides an overview of all projects accepted into the SoulForge pr
 
 | Team        | Project              | Link                                                                                              |
 |-------------|----------------------|---------------------------------------------------------------------------------------------------|
-| —           | Circomkit Bunffi     | [Link](https://github.com/zk-bankai/soulforge/blob/main/applications/circomkit-bunffi.md)        |
-| —           | zk Firma Digital     | [Link](https://github.com/zk-bankai/soulforge/blob/main/applications/zk_firma_digital.mdv)       |
-| —           | Vimz                 | [Link](https://github.com/zk-bankai/soulforge/blob/main/applications/vimz.md)                    |
+| —           | Circomkit Bunffi     | [Link](https://github.com/erhant/circomkit)        |
+| —           | zk Firma Digital     | [Link](https://github.com/kuronosec/zk-voto-digital)       |
+| —           | Vimz                 | [Link](https://github.com/zero-savvy/vimz)                    |
 | Marti       | Plonky3              | [Link](https://github.com/zk-bankai/Plonky3) ([Marti](https://github.com/mmagician))             |
 | Coset       | Plonky3 Notebook     | [Link](https://github.com/coset-io/plonky3-python-notebook)                                      |
 | Crema Labs  | ECIES Circom         | [Link](https://github.com/crema-labs/ecies-circom/)                                               |
